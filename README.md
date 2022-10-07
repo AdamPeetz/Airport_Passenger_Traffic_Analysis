@@ -42,4 +42,13 @@ Competition has an adverse effect on the number of passengers an airport serves.
 
 Passenger traffic at an airport is influenced by a combination of GDP, connectivity, and competition. GDP is strongly linked to passenger traffic. This is demonstrated by a few countries with high GDP that have multiple airports in the list of the top 50. Connectivity also shows a strong relationship. Flights can be booked to any section of the globe from the top five airports in the dataset. Geographic connectivity also shows that most of the airports in the world are concentrated in the northern hemisphere. Competition also had an effect, as demonstrated by the passenger shares of Haneda and Narita in Tokyo.  These three factors combine to influence passenger numbers moving through an airport.
 
+### References
+
+Jonah, Mary. (2017). Busiest Airports by Passenger Traffic. Kaggle.com. Retrieved 10/04/2022 from https://www.kaggle.com/datasets/jonahmary17/airports
+Paullier, Alejo. (2022). GDP By Country 1999-2022. Kaggle.com. Retrieved 10/5/2022 form https://www.kaggle.com/datasets/alejopaullier/-gdp-by-country-1999-2022
+Potakallio, Jani. & Contentshare. (2019). Flight Route Database. OpenFlights.org. retrieved 10/05/2022 from  https://www.kaggle.com/datasets/open-flights/flight-route-database
+Rodrigue, Jean Paul. (2020). Factors Impacting Airport Traffic. Transportgeography.org retrieved 10/05/2022 from https://transportgeography.org/contents/chapter6/airport-terminals/factors-impacting-airport-traffic/
+Wikipedia. (2022). Equirectangular Projection. Wikipedia.com retrieved 10/5/2022 from https://en.wikipedia.org/wiki/Equirectangular_projection
+Yoihenba, Thoudam. (2022). Airports. Kaggle.com. retrieved 10/05/2022 from https://www.kaggle.com/datasets/thoudamyoihenba/airports
+
 
