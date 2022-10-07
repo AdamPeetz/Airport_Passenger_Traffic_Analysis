@@ -44,11 +44,11 @@ Passenger traffic at an airport is influenced by a combination of GDP, connectiv
 
 ### References
 
-Jonah, Mary. (2017). Busiest Airports by Passenger Traffic. Kaggle.com. Retrieved 10/04/2022 from https://www.kaggle.com/datasets/jonahmary17/airports
-Paullier, Alejo. (2022). GDP By Country 1999-2022. Kaggle.com. Retrieved 10/5/2022 form https://www.kaggle.com/datasets/alejopaullier/-gdp-by-country-1999-2022
-Potakallio, Jani. & Contentshare. (2019). Flight Route Database. OpenFlights.org. retrieved 10/05/2022 from  https://www.kaggle.com/datasets/open-flights/flight-route-database
-Rodrigue, Jean Paul. (2020). Factors Impacting Airport Traffic. Transportgeography.org retrieved 10/05/2022 from https://transportgeography.org/contents/chapter6/airport-terminals/factors-impacting-airport-traffic/
-Wikipedia. (2022). Equirectangular Projection. Wikipedia.com retrieved 10/5/2022 from https://en.wikipedia.org/wiki/Equirectangular_projection
-Yoihenba, Thoudam. (2022). Airports. Kaggle.com. retrieved 10/05/2022 from https://www.kaggle.com/datasets/thoudamyoihenba/airports
+Jonah, Mary. (2017). Busiest Airports by Passenger Traffic. Kaggle.com. Retrieved 10/04/2022 from https://www.kaggle.com/datasets/jonahmary17/airports <br>
+Paullier, Alejo. (2022). GDP By Country 1999-2022. Kaggle.com. Retrieved 10/5/2022 form https://www.kaggle.com/datasets/alejopaullier/-gdp-by-country-1999-2022<br>
+Potakallio, Jani. & Contentshare. (2019). Flight Route Database. OpenFlights.org. retrieved 10/05/2022 from  https://www.kaggle.com/datasets/open-flights/flight-route-database<br>
+Rodrigue, Jean Paul. (2020). Factors Impacting Airport Traffic. Transportgeography.org retrieved 10/05/2022 from https://transportgeography.org/contents/chapter6/airport-terminals/factors-impacting-airport-traffic/<br>
+Wikipedia. (2022). Equirectangular Projection. Wikipedia.com retrieved 10/5/2022 from https://en.wikipedia.org/wiki/Equirectangular_projection<br>
+Yoihenba, Thoudam. (2022). Airports. Kaggle.com. retrieved 10/05/2022 from https://www.kaggle.com/datasets/thoudamyoihenba/airports<br>
 
 
