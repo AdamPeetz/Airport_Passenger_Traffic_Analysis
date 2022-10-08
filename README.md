@@ -1,5 +1,7 @@
 # Airport Passenger Traffic Analysis
 ## A mechanic exploration of factors correlated to airport passenger traffic.
+Watch the presentation here: https://youtu.be/vHFX0ALnzl0
+
 ![alt text](https://github.com/AdamPeetz/PassengerTrafficAnalysis/blob/main/EquirectangularOverlay.jpg) <br>
 
 ## Factors contributing to passenger traffic: An exploration of correlating variables
